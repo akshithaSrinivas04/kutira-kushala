@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Kutira" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#C2410C</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
